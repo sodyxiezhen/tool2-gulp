@@ -1,0 +1,31 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "test gulp",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mini-css": "0.0.3",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodyxiezhen/tool2-gulp.git"
+  },
+  "keywords": [
+    "sody",
+    "test",
+    "gulp"
+  ],
+  "author": "sody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodyxiezhen/tool2-gulp/issues"
+  },
+  "homepage": "https://github.com/sodyxiezhen/tool2-gulp#readme"
+}
