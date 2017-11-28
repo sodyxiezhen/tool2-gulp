@@ -11,7 +11,7 @@
     "pump": "^1.0.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./node_modules/.bin/gulp "
   },
   "repository": {
     "type": "git",
